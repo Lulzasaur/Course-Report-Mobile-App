@@ -1,6 +1,6 @@
 Production site at : https://www.coursereport.com/
 
-<img src="assets/Splash.png" title="Course Report" alt="Course Report" style="max-height: 100px; max-width: 100px;"></a>
+<img src="assets/Splash.png" title="Course Report" alt="Course Report" height='100' width='50'></a>
 
 # Course Report - Mobile Application
 
