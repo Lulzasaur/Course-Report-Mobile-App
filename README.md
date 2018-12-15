@@ -12,16 +12,16 @@ Production site at : https://www.coursereport.com/
 
 - Home Screen - The home screen showcased the featured schools that paid Course Report for prominence.  We decided the simplest and asthetic way to present this was in a carousel that rotated schools every couple of seconds.
 
-<img src="assets/Home_Screen.png" title="home" alt="home" style="max-height: 100px; max-width: 100px;">
+<img src="assets/Home_Screen.png" title="home" alt="home" height='400' width='200'>
 
 - Blog Screen - When thinking about uses for a mobile app, users tend to use applications that have a constant stream of new information.  We decided to include the blog posts by Course Report, as it would keep users checking back for any fresh updates. Additionally, a user can search for previous posted blog posts.
 
-<img src="assets/Blog_Screen.png" title="blog" alt="blog" style="max-height: 100px; max-width: 100px;">
+<img src="assets/Blog_Screen.png" title="blog" alt="blog" height='400' width='200's>
 
 - Schools Screen - The main function of Course Report is to help users research schools.  The schools screen obtains the user's geolocation and displays the closest schools (by city).  Additionally, when each school is accessed, more information can be brought up including a description, contact button (if a contact is available) and reviews for the school
 
-<img src="assets/Schools_Screen.png" title="schools" alt="schools" style="max-height: 100px; max-width: 100px;">
-<img src="assets/Search_Demo.gif" title="search" alt="search" style="max-height: 100px; max-width: 100px;">
+<img src="assets/Schools_Screen.png" title="schools" alt="schools" height='400' width='200'>
+<img src="assets/Search_Demo.gif" title="search" alt="search" height='400' width='200'>
 
 ---
 
