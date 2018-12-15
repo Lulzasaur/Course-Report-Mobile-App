@@ -16,7 +16,7 @@ Production site at : https://www.coursereport.com/
 
 - Blog Screen - When thinking about uses for a mobile app, users tend to use applications that have a constant stream of new information.  We decided to include the blog posts by Course Report, as it would keep users checking back for any fresh updates. Additionally, a user can search for previous posted blog posts.
 
-<img src="assets/Blog_Screen.png" title="blog" alt="blog" height='400' width='200's>
+<img src="assets/Blog_Screen.png" title="blog" alt="blog" height='400' width='200'>
 
 - Schools Screen - The main function of Course Report is to help users research schools.  The schools screen obtains the user's geolocation and displays the closest schools (by city).  Additionally, when each school is accessed, more information can be brought up including a description, contact button (if a contact is available) and reviews for the school
 
